@@ -1,0 +1,19 @@
+
+source venv/bin/activate      
+pip install pyttsx3 speechrecognition pyautogui opencv-python pyjokes requests beautifulsoup4 pywikihow PyPDF2 speedtest-cli pyobjc>=9.0.1
+
+
+
+
+
+# to run
+
+source venv/bin/activate
+python -m pip install pyttsx3 pyobjc==9.0.1
+python assistant_mac.py
+
+
+
+# api
+
+ip: ipfy
