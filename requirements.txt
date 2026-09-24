@@ -1,0 +1,10 @@
+flask>=3.0
+requests>=2.31
+python-dotenv>=1.0
+# optional features (install only what you need)
+pyjokes
+wikipedia
+pywikihow
+PyPDF2
+speedtest-cli
+pyautogui
